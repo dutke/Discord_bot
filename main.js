@@ -11,7 +11,7 @@ const Calendar = require('calendar-base').Calendar;
 
 const client = new Discord.Client;
 const prefix = '!';
-const token = 'NzkzMjYyNTczMDUwMjY1NjEw.X-ptVw.KQMg4SA60Ot3PKvJe1FEkbk3Tqc'; //discord token
+const token = ''; //discord token
 
 const queue = new Map();
 
