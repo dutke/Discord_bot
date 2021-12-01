@@ -20,7 +20,7 @@ const queue = new Map();
 //-----------------------------------------------------------------------------------------------------------------------------
 
 client.once('ready', ()=>{        
-    console.log('Bot du Q is online !');
+    console.log('Bot is online !');
 });
 
 client.on('message', message =>{
