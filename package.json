@@ -1,0 +1,31 @@
+{
+  "name": "config",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dutke",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "calendar": "^0.1.1",
+    "calendar-base": "^1.1.1",
+    "calendar-utils": "^0.8.3",
+    "calendar.js": "^1.0.6",
+    "chance.js": "0.0.1",
+    "discord.js": "^12.5.1",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "math.js": "^1.1.46",
+    "random-anime": "^1.0.6",
+    "random.js": "^0.1.0",
+    "react-event-calendar": "^0.3.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "snekfetch": "^4.0.4",
+    "ytdl-core": "^4.4.5"
+  },
+  "devDependencies": {},
+  "description": ""
+}
